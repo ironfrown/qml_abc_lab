@@ -4,7 +4,7 @@
 - **Aims:** To explore the creation and use of quantum machine learning models in Qiskit.
 - **Description:**
   This QML ABC lab explores the process of developing a simple quantum model in Qiskit.<br>
-  The lab includes two practical sessions that cover the QML concepts, models, and techniques.<br>
+  The lab includes three practical sessions that cover the QML concepts, models, and techniques.<br>
   The first introductory lab will be demonstrated by the presenter.<br>
   The second lab is designed to be completed by the participants and its tasks discussed on Discord.<br>
   The final lab is a challenge, to be undertaken by the participants themselves.
