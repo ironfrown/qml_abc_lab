@@ -31,6 +31,8 @@ This site is structured as follows:
 - _**runs:**_ answers to all tasks set in the labs, except for:
   - Lab 2 (Homework): answers to tasks G and H have not been provided
   - Lab 3 (Challenge): answers to tasks B and C have not been provided 
+- _**utils:**_ utilities for charting, filing and segmentinmg data, a few models, etc.
+  In my demo, I will use mainly some clever chart plotting functions.
 - _**slides:**_ presentation slides in PDF (as they become available)
 - _**legacy:**_ previous versions of files (in case you really really wanted them)
   
