@@ -46,12 +46,12 @@ Note however that these notebooks may be updated at any time!
         <th style="text-align: left;">Model</th>
         <th style="text-align: left;">Description</th>
     </tr>
-    <tr><td style="vertical-align: top;"><strong><em>qml_abc_01_sin ...</em></strong></td>
+    <tr><td style="vertical-align: top;"><strong><em>qml_abc_01_sin</em></strong></td>
         <td style="vertical-align: top;">sin_n100</td>
         <td style="vertical-align: top;">qnn_model_1</td>
         <td style="vertical-align: top;">A simple QML model trained on very simple "sine" function.</td>
     </tr>
-    <tr><td style="vertical-align: top;"><strong><em>qml_abc_02_sinful ...</em></strong></td>
+    <tr><td style="vertical-align: top;"><strong><em>qml_abc_02_sinful</em></strong></td>
         <td style="vertical-align: top;">sinful_n100</td>
         <td style="vertical-align: top;">qnn_model_2</td>
         <td style="vertical-align: top;">An evil twist in a trig "sinful" data makes the previous model unworkable.<br>
@@ -63,7 +63,7 @@ Note however that these notebooks may be updated at any time!
         <td style="vertical-align: top;">qnn_model_2</td>
         <td style="vertical-align: top;">Once we fix the "sinful" model, this new "sinless" dataset will wreck it.</td>
     </tr>
-    <tr><td style="vertical-align: top;"><strong><em>qml_abc_03_mglass ...</em></strong></td>
+    <tr><td style="vertical-align: top;"><strong><em>qml_abc_03_mglass</em></strong></td>
         <td style="vertical-align: top;">mackie_glass</td>
         <td style="vertical-align: top;">qnn_model_3</td>
         <td style="vertical-align: top;">The challenge exercise is to create a Qiskit model for Mackie-Glass data.</td>
