@@ -1,7 +1,7 @@
 # Quantum Machine Learning A-B-C in Qiskit
 - **Author:** [Jacob Cybulski](https://jacobcybulski.com/) ([LinkedIn](https://www.linkedin.com/in/jacobcybulski/)), *Enquanted*
 - **Associated with:** [QPoland](https://qworld.net/qpoland/)
-- **Aims:** To explore the creation and use of quantum machine learning models in PennyLane and PyTorch.
+- **Aims:** To explore the creation and use of quantum machine learning models in Qiskit.
 - **Description:**
   This QML ABC lab explores the process of developing a simple quantum model in Qiskit.<br>
   The lab includes two practical sessions that cover the QML concepts, models, and techniques.<br>
