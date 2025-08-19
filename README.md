@@ -49,7 +49,7 @@ Note however that these notebooks may be updated at any time!
     <tr><td style="vertical-align: top;"><strong><em>qml_abc_01_sin ...</em></strong></td>
         <td style="vertical-align: top;">sin_n100</td>
         <td style="vertical-align: top;">qnn_model_1</td>
-        <td style="vertical-align: top;">A simple QML model trained on very simple "sine" funsction.</td>
+        <td style="vertical-align: top;">A simple QML model trained on very simple "sine" function.</td>
     </tr>
     <tr><td style="vertical-align: top;"><strong><em>qml_abc_02_sinful ...</em></strong></td>
         <td style="vertical-align: top;">sinful_n100</td>
