@@ -30,7 +30,8 @@ This site is structured as follows:
 - _**dev:**_ developement versions of the three labs notebooks
 - _**runs:**_ answers to all tasks set in the labs, except for:
   - Lab 2 (Homework): answers to tasks G and H have not been provided
-  - Lab 3 (Challenge): answers to tasks B and C have not been provided 
+  - Lab 3 (Challenge): answers to tasks B and C have not been provided
+- _**examples:**_ additional relevant QML examples
 - _**utils:**_ utilities for charting, filing and segmenting data, a few models, etc.<br>
   In my demo, I will use mainly some clever chart plotting functions.
 - _**slides:**_ presentation slides in PDF (as they become available)
