@@ -17,7 +17,7 @@
   _**The presentation (slides and video once available):**_<br>
   Jacob L. Cybulski, "Quantum Algorithms and Data Encoding for QML with Qiskit",<br>
   QBronze-167 Workshop by QIndia / QWorld, August 9-10 and 23-24, 2025,<br>
-  [https://jacobcybulski.com/seminars/slides/2025_QIndia_QML_ABC_v1_1.pdf](https://jacobcybulski.com/seminars/slides/2025_QIndia_QML_ABC_v1_1.pdf).<br>
+  [https://jacobcybulski.com/seminars/slides/2025_QIndia_QML_ABC_v1_2_long.pdf](https://jacobcybulski.com/seminars/slides/2025_QIndia_QML_ABC_v1_2_long.pdf).<br>
 
   _**This GitHub:**_<br>
   Jacob L. Cybulski (ironfrown), "Quantum Machine Learning A-B-C in Qiskit",<br>
