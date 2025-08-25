@@ -1,7 +1,8 @@
 # Quantum Machine Learning A-B-C in Qiskit
 - **Author:** [Jacob Cybulski](https://jacobcybulski.com/) ([LinkedIn](https://www.linkedin.com/in/jacobcybulski/)), *Enquanted*
 - **Associated with:** [QPoland](https://qworld.net/qpoland/)
-- **Aims:** To explore the creation and use of quantum machine learning models in Qiskit.
+- **Aims:** To support a workshop session exploring the creation and use of quantum machine learning models in Qiskit.
+- **Prerequisites:** This GitHub assumes the prior knowledge of quantum computing and machines learning, as well as some experience with Python programming and Qiskit. 
 - **Description:**
   This QML ABC lab explores the process of developing a simple quantum model in Qiskit.<br>
   The lab includes three practical sessions that cover the QML concepts, models, and techniques.<br>
